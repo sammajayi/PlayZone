@@ -133,7 +133,7 @@ export default function MarketDetailPage() {
                     <h1 className="text-2xl font-semibold mb-2">Market not found</h1>
                     <p className="text-[#64748b] mb-4">The market you're looking for doesn't exist.</p>
                     <Link
-                        href="/market"
+                        href="/"
                         className="inline-flex items-center gap-2 text-[#2563eb] hover:text-[#1d4ed8] no-underline"
                     >
                         <ArrowLeft size={16} />
